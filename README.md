@@ -3,7 +3,7 @@ This repository is the result of the Data Analyst Toolbox training on the O'Reil
 
 DATA ANALYST’S TOOLBOX is comprehensive training that I am currently undertaking. The course unpacks the data analyst toolbox, enabling me to learn and refresh the necessary skills for data analysis. The Data Analyst’s Toolbox includes the following courses: **Excel (Advanced Pivot Tables & Power Pivot & Power Query & Data Analysis Expression (DAX) measures); Python; Power BI; Alteryx; Qlik Sense, R; Tableau**
 
-# INTRODUCTION TO POWER BI
+## INTRODUCTION TO POWER BI
 In this introductory course, the following was covered: 
 ## Introduction to Power BI 
 ## Session I: Getting and Transforming Data 
