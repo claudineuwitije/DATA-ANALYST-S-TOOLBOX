@@ -15,8 +15,8 @@ DATA ANALYST’S TOOLBOX is comprehensive training that I am currently undertaki
 In this introductory course, the following was covered: 
 ## •	Introduction to Power BI 
 ## Session I: Getting and Transforming Data 
-  •	Import files into Power BI Desktop from various data sources such as CSV, Excel, Text files etc.
-  •	Referencing queries to create additional Lookup tables 
+  * Import files into Power BI Desktop from various data sources such as CSV, Excel, Text files etc.
+  * Referencing queries to create additional Lookup tables 
   •	Using Merge Queries to fetch data from other queries
   •	Preventing queries from loading into Power BI desktop 
   •	How to prevent some queries from loading to the model.
