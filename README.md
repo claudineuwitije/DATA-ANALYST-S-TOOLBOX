@@ -41,3 +41,18 @@ In this introductory course, the following was covered:
 ### Session VII: Power BI services 
   * Publishing a report to the Power BI
   * Different ways to share a power BI Report
+
+### INTRODUCTION TO PYTHON
+Enter Python, one of the most popular languages for data analysis and business intelligence. In this introductory course, various topics are covered, as outlined below. With practice exercises and mini projects to complete as you progress through the course, you’ll quickly become proficient with this powerful programming language.
+In this introductory course, the following was covered: 
+
+  * Session 1: Basic data types (strings, integers, Floats, Boolean) + exercises
+  * Session 2: Python Built-In Functions
+  * Session 3: variable and functions
+  * Session 4: Errors and Debugging
+  * Session 5: Python keywords
+  * Session 6: If-Else Statements
+  * Session 7: Storing complex Data
+  * Session 8: Installing Python and modules
+  * Session 9: Min-Project: writing a script for automating Data updates in a spreadsheet
+
