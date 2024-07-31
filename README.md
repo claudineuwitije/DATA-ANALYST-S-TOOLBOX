@@ -42,7 +42,7 @@ In this introductory course, the following was covered:
   * Publishing a report to the Power BI
   * Different ways to share a power BI Report
 
-### INTRODUCTION TO PYTHON
+## INTRODUCTION TO PYTHON
 Enter Python, one of the most popular languages for data analysis and business intelligence. In this introductory course, various topics are covered, as outlined below. With practice exercises and mini projects to complete as you progress through the course, you’ll quickly become proficient with this powerful programming language.
 In this introductory course, the following was covered: 
 
