@@ -56,3 +56,17 @@ In this introductory course, the following was covered:
   * Session 8: Installing Python and modules
   * Session 9: Min-Project: writing a script for automating Data updates in a spreadsheet
 
+## INTRODUCTION TO R PROGRAMMING
+This is a comprehensive 6-hour course designed to guide you through R programming. The course is well-structured, with various sessions outlined below, and includes a mini real-life project focused on analyzing New York City Uber pickups. The analysis uses data from 2014 and 2015. While the data may be somewhat dated, it effectively illustrates how to apply your knowledge and develop data analysis skills to tackle real-world problems
+
+  * Session 1 & 2 : Introduction to R programming
+  * Session 3: Operations and variable
+  * Session 4: Vectors
+  * Session 5: Matrix
+  * Session 6: Array
+  * Session 7: List
+  * Session 8: Factors
+  * Session 9: For & While Loops
+  * Session 10: Function
+  * Session 11: Data Frame
+  * Mini-Project_New York City Uber Pickups 2014
